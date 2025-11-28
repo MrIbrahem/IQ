@@ -1,0 +1,5 @@
+{
+  "name": "مقياس الذكاء العربي (Arabic IQ Test)",
+  "description": "A comprehensive IQ test application in Arabic designed to measure logical, numerical, spatial, and verbal intelligence. Features real-time scoring and AI-powered performance analysis.",
+  "requestFramePermissions": []
+}
